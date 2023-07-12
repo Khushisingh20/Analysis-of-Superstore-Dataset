@@ -34,3 +34,7 @@ The solution for the "Analysis of Superstore dataset" project involves conductin
 
 The analysis involves using Power BI, a data visualization and reporting tool, to create interactive dashboards and reports that provide insights into the sales and profit performance of Superstore.
 
+![Screenshot 2023-07-09 135550](https://github.com/Khushisingh20/Analysis-of-Superstore-Dataset/assets/98705619/78bcb76c-ce58-42d9-9e94-f219084f7e8f)
+
+![Screenshot 2023-07-09 212642](https://github.com/Subham966/Analysis_of_SuperStore_Dataset-IBM_Internship_Project_for_DataAnalysis/assets/98705619/4c50aa46-a7ec-401b-b6c0-ba82b759e68a)
+
